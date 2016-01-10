@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/gpsme_onclick"
+    tools:context="com.hackgeny.megps.PressButton" >
+
+    <Button
+        android:layout_width="210sp"
+        android:layout_height="35sp"
+        android:text=""
+        android:background="@android:color/transparent"
+        android:id="@+id/cancel"
+        android:onClick="totalCancel"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>
+<!-- From: file:/Users/ShivamParikh/AndroidStudio/MeGPS/app/src/main/res/layout/activity_press_button.xml -->

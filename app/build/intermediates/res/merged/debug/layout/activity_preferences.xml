@@ -1,0 +1,89 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.hackgeny.megps.Preferences" >
+
+    <EditText
+        android:id="@+id/fullName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:ems="10"
+        android:hint="Full Name"
+        android:inputType="textPersonName" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/phoneNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/fullName"
+        android:layout_below="@+id/fullName"
+        android:layout_marginTop="24sp"
+        android:ems="10"
+        android:hint="Phone Number"
+        android:inputType="phone" />
+
+    <EditText
+        android:id="@+id/Gender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/phoneNumber"
+        android:layout_below="@+id/phoneNumber"
+        android:layout_marginTop="18dp"
+        android:ems="10"
+        android:hint="M/F" />
+
+    <EditText
+        android:id="@+id/ePhone1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/Gender"
+        android:layout_below="@+id/Gender"
+        android:layout_marginTop="18sp"
+        android:ems="10"
+        android:inputType="phone"
+        android:hint="Emergency Contact 1" />
+
+    <EditText
+        android:id="@+id/ePhone2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/ePhone1"
+        android:layout_below="@+id/ePhone1"
+        android:layout_marginTop="20sp"
+        android:ems="10"
+        android:inputType="phone"
+        android:hint="Emergency Contact 2" />
+
+    <Button
+        android:id="@+id/finish"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="86dp"
+        android:onClick="concat"
+        android:text="Save Preferences"
+        android:layout_below="@+id/ePhone2"
+        android:layout_alignLeft="@+id/ePhone2"
+        android:layout_alignStart="@+id/ePhone2" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:ems="10"
+        android:id="@+id/policeServer"
+        android:hint="Enter Reception(Demo)"
+        android:layout_below="@+id/ePhone2"
+        android:layout_alignLeft="@+id/finish"
+        android:layout_alignStart="@+id/finish"
+        android:layout_marginTop="45dp" />
+
+</RelativeLayout>

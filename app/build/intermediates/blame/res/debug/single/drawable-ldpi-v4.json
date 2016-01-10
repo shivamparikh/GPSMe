@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/gpsme_home.png",
+        "source": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/src/main/res/drawable-ldpi/gpsme_home.png"
+    },
+    {
+        "merged": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/gpsme_logo.png",
+        "source": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/src/main/res/drawable-ldpi/gpsme_logo.png"
+    },
+    {
+        "merged": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/bigred.png",
+        "source": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/src/main/res/drawable-ldpi/bigred.png"
+    },
+    {
+        "merged": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/gpsme_ux.png",
+        "source": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/src/main/res/drawable-ldpi/gpsme_ux.png"
+    },
+    {
+        "merged": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/maps_track.png",
+        "source": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/src/main/res/drawable-ldpi/maps_track.png"
+    },
+    {
+        "merged": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/gpsme_onclick.png",
+        "source": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/src/main/res/drawable-ldpi/gpsme_onclick.png"
+    }
+]

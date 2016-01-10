@@ -1,0 +1,8 @@
+/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/classes/debug
+/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-e7dd45ab9ead21bbf096d0df8b730e32b777689c.jar
+/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-c99ea871e3b794645d19e5bbe3085ec711996f7d.jar
+/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-e3b5e786fc05811d7db07eda2b0317097f82ccd3.jar
+/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/pre-dexed/debug/classes-e5b6b787de94cd2b9cb3480bcb5925555a462e88.jar
+/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/pre-dexed/debug/Parse-1.8.2-ad78d979053af79b049c709d064cc6c2befec081.jar
+/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/pre-dexed/debug/classes-0b082b3ee57ae4a670dd240d642f7475d46d6d35.jar
+/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/pre-dexed/debug/classes-393598a10841cfb697eae2efb4c121747110bf6f.jar

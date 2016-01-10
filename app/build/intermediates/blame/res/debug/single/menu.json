@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/res/merged/debug/menu/preferences.xml",
+        "source": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/src/main/res/menu/preferences.xml"
+    },
+    {
+        "merged": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/res/merged/debug/menu/menu_maps.xml",
+        "source": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/src/main/res/menu/menu_maps.xml"
+    },
+    {
+        "merged": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/res/merged/debug/menu/panic.xml",
+        "source": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/src/main/res/menu/panic.xml"
+    },
+    {
+        "merged": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/build/intermediates/res/merged/debug/menu/press_button.xml",
+        "source": "/Users/ShivamParikh/AndroidStudio/MeGPS/app/src/main/res/menu/press_button.xml"
+    }
+]

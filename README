@@ -1,0 +1,24 @@
+Introduction
+
+When most people use pepper spray, its to get away from their assailants as quickly as possible. But what happens if they can't get away? What happens when they're stuck and possibly injured and still in harm's way? And something that very few people tend to think about, what happens to the assailant except for a few minutes of burning pain? GPSMe is a prototype product that I conceived and partially developed at Hack Gen Y in January of 2015, and I was awarded the finalist ranking along with my team for the product we made.
+
+The Product
+
+GPSMe is a twist on the conventional pepper spray that connects to your phone. It can also be used as a panic button directly through the mobile application. By integrating a Bluetooth LE device into the pepper spray canister, when triggered, it connects briefly to the phone, which sends SMS messages containing GPS coordinates from the user's phone to a central dispatch service along with basic information on the person to allow for identification while on the job. This service allows the user to spray and run as they normally would, but it would also report the proper authorities in case the user is not able to escape to a safe environment. Also, the assailant does not necessarily know that the user's phone is transmitting this data simply by spraying the canister, and would not provide the same risk caused by distraction of using a mobile device in a dangerous situation. GPSMe also has the option to send SMS messages to two emergency contacts letting them know that you have triggered the device and may possibly be in danger. To prevent the emergency contact from putting themselves into harm's way, we do not send them the GPS coordinates. The user is given 45 seconds to cancel their dispatch if it was sent accidentally.
+
+^From Left to Right: Home Screen, Personal Info Screen, Hotspots Screen
+
+We implemented the Parse API into our application to store the coordinates where other users triggered the pepper spray and these coordinates can then be downloaded and viewed through the Google Maps API on mobile devices. By seeing where other users have claimed emergencies, other users can avoid said areas and prevent dangerous encounters altogether.
+
+Future Expansion
+
+I am currently working on enabling live tracking of the user by both police and emergency contacts. By allowing them to track the user, they can virtually ensure that the user is running in the proper direction, and not being abducted, or in another dangerous situation. I am also currently working on building the Bluetooth prototype. The current product is only the panic button that performs the same actions. 
+I would also like to create software to analyze the data we collect in terms of time, location, and demographic data to create hotspots of dangerous situations on a map to prevent people from getting stuck in unfortunate situations.
+
+Inspiration
+
+I saw my sister buy a canister of pepper spray before going to work in San Francisco and I thought to myself: "There has to be a better way to get out of a sticky situation than just temporarily incapacitating the person." And that's when GPSMe was born. I conceived and planned out the idea of a bluetooth pepper spray over the summer of 2012.
+
+Awards and Recognitions
+
+For my product, I was awarded the finalist position at Hacking Generation Y, and I presented the product along with my hackathon team members to a panel of tech judges and an audience of over 500 people. I was also awarded the Parse API Award for creative use of the Parse API, and I was given $5500 in credit towards the Parse products to use to expand my product.
